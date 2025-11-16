@@ -20,7 +20,7 @@
 
 <section class="content">
 <h2>About Me</h2>
-<p>Halo, saya adalah seorang web developer pemula yang sedang belajar membuat website portofolio menggunakan HTML dan CSS murni.</p>
+<p>Halo, saya adalah Najwatul Maulida yang sedang belajar membuat website portofolio pemula menggunakan HTML dan CSS murni.</p>
 </section>
 </body>
 </html>
